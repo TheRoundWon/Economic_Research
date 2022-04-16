@@ -18,24 +18,23 @@ Feel free to follow along as I play around with web data and use various free da
 
 
 ### Websites to access the Data and Learn More about the packages
-#### Economic Databases
-[OECD Economic Research](https://www.oecd-ilibrary.org)
-[Alpha Vantage](https://www.alphavantage.co/documentation/)
-[World Bank](https://www.worldbank.org/en/home)
-[FRED Economic Research](https://research.stlouisfed.org)
+#### * Economic Databases
+- [OECD Economic Research](https://www.oecd-ilibrary.org)
+- [Alpha Vantage](https://www.alphavantage.co/documentation/)
+- [World Bank](https://www.worldbank.org/en/home)
+- [FRED Economic Research](https://research.stlouisfed.org)
 
 
-### Learn to Code and Basic ML
-[Programming Resources](https://www.sololearn.com/home)
-[Learn Pandas and Basic ML- Course](https://www.dataschool.io)
-[Data School Youtube](https://www.youtube.com/c/dataschool)
+### * Learn to Code and Basic ML
+- [Programming Resources](https://www.sololearn.com/home)
+- [Learn Pandas and Basic ML- Course](https://www.dataschool.io)
+- [Data School Youtube](https://www.youtube.com/c/dataschool)
 ---
 
 
-### Get your own Hardware
-
-[Jetson Nvidia](https://www.nvidia.com/en-us/autonomous-machines/jetson-store/)
-[Rasberry Pi](https://www.canakit.com)
+### * Get your own Hardware
+- [Jetson Nvidia](https://www.nvidia.com/en-us/autonomous-machines/jetson-store/)
+- [Rasberry Pi](https://www.canakit.com)
 
 
 ### Structure of Repo
